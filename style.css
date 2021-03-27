@@ -1,16 +1,16 @@
 /* Basic Style */
 
 .content {
-  background-color:#f8f8f8;
-  color:#333;
+  background-color: #f8f8f8;
+  color: #333;
   font-family: Lato, sans-serif;
 }
 
 .matrix {
-  width:500px;
-  margin:0 auto;
-  display:block;
-  text-align:right;
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  text-align: right;
 }
 
 .matrix__image {
@@ -26,7 +26,7 @@
   .matrix {
     text-align: center;
   }
-
+  
 }
 
 .main {
