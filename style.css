@@ -26,7 +26,7 @@
   .matrix {
     text-align: center;
   }
-  
+
 }
 
 .main {
@@ -50,11 +50,13 @@
   padding: 0px;
 }
 
-.task-list__task, .subheader {
+.task-list__task,
+.subheader {
   list-style: none;
 }
 
-.input, .btn {
+.input,
+.btn {
   outline: none;
 }
 
@@ -74,7 +76,8 @@
 
 /* Heading */
 
-.subheader, .add-elem__subheader {
+.subheader,
+.add-elem__subheader {
   color: #333;
   font-weight: 700;
   font-size: 15px;
