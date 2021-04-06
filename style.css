@@ -149,7 +149,7 @@
 }
 
 .task-list__task .task-list__input-name {
-  width: 226px
+  width: 226px;
 }
 
 .del-btn:hover {
@@ -176,7 +176,7 @@
 /* Edit Task */
 
 .task-list__input-name {
-  display: none
+  display: none;
 }
 
 .edit-mode .task-list__input-name {
